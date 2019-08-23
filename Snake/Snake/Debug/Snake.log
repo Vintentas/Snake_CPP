@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  snake_options.cpp
+  snake_info.cpp
+  SnakeDlg.cpp
+e:\vs_projects\snake\snake\snakedlg.cpp(217): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs_projects\snake\snake\snakedlg.cpp(226): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs_projects\snake\snake\snakedlg.cpp(421): warning C4018: <: несоответствие типов со знаком и без знака
+  Snake.cpp
+  My_Snake.cpp
+  Создание кода...
+Snake.rc(141): warning RC4206: title string too long; truncated at 256
+  
+  Snake.vcxproj -> E:\VS_projects\Snake\Debug\Snake.exe
+  Snake.vcxproj -> E:\VS_projects\Snake\Debug\Snake.pdb (Partial PDB)
